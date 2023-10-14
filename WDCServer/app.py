@@ -1,3 +1,4 @@
+import mediapipe as mp
 from flask import Flask, request,flash,redirect, url_for
 from werkzeug.utils import secure_filename
 from service.GaitService import GaitService
