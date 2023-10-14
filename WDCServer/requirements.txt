@@ -1,5 +1,5 @@
 mediapipe==0.10.7
-opencv-python-headless==4.5.2.52
+opencv-python-headless-4.8.1.78
 Flask==3.0.0
 pymongo==4.5.0
 azure-core==1.29.4
